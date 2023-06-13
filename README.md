@@ -1,5 +1,6 @@
 # wiki
 **Wiki** is a free online encyclopedia consisting of many articles on various topics, similar to Wikipedia. This is my variant of solving the second task in the course "Web programming with Python and JavaScript".
+This project is based on Django.
 
 From the home page
 ![All entries](wiki/screenshots/home.png)
