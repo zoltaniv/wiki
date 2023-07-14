@@ -1,4 +1,8 @@
-asgiref==3.6.0
-Django==4.2.1
-django-extensions==3.2.3
+asgiref==3.7.2
+Django==4.2.2
+docopt==0.6.2
+encyclopedia==0.44
+Markdown==3.4.1
+nits==0.19
 sqlparse==0.4.4
+typing_extensions==4.7.1
